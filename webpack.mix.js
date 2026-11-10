@@ -9,4 +9,4 @@ mix
   .vue({ version: 3 })
   // .css('resources/sass/tool.scss', 'css')
     .postCss("resources/sass/tool.css", "css", [tailwindcss("tailwind.config.js")])
-  .nova('visanduma/nova-two-factor')
+  .nova('a2zwebltd/nova-two-factor')

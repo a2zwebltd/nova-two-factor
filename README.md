@@ -4,8 +4,8 @@
 
 </p>
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/visanduma/nova-two-factor.svg?style=flat-square)](https://packagist.org/packages/visanduma/nova-two-factor)
-[![Total Downloads](https://img.shields.io/packagist/dt/visanduma/nova-two-factor.svg?style=flat-square)](https://packagist.org/packages/visanduma/nova-two-factor)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/a2zwebltd/nova-two-factor.svg?style=flat-square)](https://packagist.org/packages/a2zwebltd/nova-two-factor)
+[![Total Downloads](https://img.shields.io/packagist/dt/a2zwebltd/nova-two-factor.svg?style=flat-square)](https://packagist.org/packages/a2zwebltd/nova-two-factor)
 
 # Nova-Two-Factor
 Laravel nova in-dashboard 2FA security feature.
@@ -46,7 +46,7 @@ Reauthorize any route using 2FA prompt
 
 Install the package
 
-`` composer require visanduma/nova-two-factor ``
+`` composer require a2zwebltd/nova-two-factor ``
 
 
 1. Pubish config & migration
